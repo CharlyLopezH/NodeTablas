@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "colors.js": "^1.2.4",
+    "yargs": "^17.5.1"
+  }
+}
